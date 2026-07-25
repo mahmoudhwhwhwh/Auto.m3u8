@@ -2,10 +2,10 @@
 # Created with LIVE STREAM PRO Playlist Creator - Ott Player Account
 
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080
-http://max-pro.vip:2052/live/18885076681336/14648237268240/701738.m3u8
+http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13614&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1280x720
-http://max-pro.vip:2052/live/18885076681336/14648237268240/702027.m3u8
+http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13615&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
-http://max-pro.vip:2052/live/18885076681336/14648237268240/700225.m3u8
+http://4kpro2.com/play/live.php?mac=00:1A:79:70:9D:14&stream=13616&extension=m3u8
