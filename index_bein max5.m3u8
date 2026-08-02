@@ -1,1 +1,11 @@
+#EXTM3U
+# Created with LIVE STREAM PRO Playlist Creator - Ott Player Account
 
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080
+https://o2.none-arrt-a6-ak.click/alwan_sport5/tracks-v1a1/mono.m3u8?remote=188.72.57.95&token=060e26c8205cac34433bf5c327cff31b4f95af93-97d70d7b41536f9021d0cd2df7f2ef3d-1785688877-1785678077
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1280x720
+https://o2.none-arrt-a6-ak.click/alwan_sport5/tracks-v1a1/mono.m3u8?remote=188.72.57.95&token=060e26c8205cac34433bf5c327cff31b4f95af93-97d70d7b41536f9021d0cd2df7f2ef3d-1785688877-1785678077
+
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+https://o2.none-arrt-a6-ak.click/alwan_sport5/tracks-v1a1/mono.m3u8?remote=188.72.57.95&token=060e26c8205cac34433bf5c327cff31b4f95af93-97d70d7b41536f9021d0cd2df7f2ef3d-1785688877-1785678077
