@@ -1,1 +1,11 @@
+#EXTM3U
+# Created with LIVE STREAM PRO Playlist Creator - Ott Player Account
 
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080
+http://ityyy54viner.atwebpages.com/Al-AbboudiTV3/index.php?action=proxy&channel=27&server=0.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1280x720
+http://ityyy54viner.atwebpages.com/Al-AbboudiTV3/index.php?action=proxy&channel=27&server=0.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+http://ityyy54viner.atwebpages.com/Al-AbboudiTV3/index.php?action=proxy&channel=27&server=0.m3u8
