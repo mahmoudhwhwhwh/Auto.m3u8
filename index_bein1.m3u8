@@ -1,0 +1,15 @@
+{
+  "name": "beIN SPORTS 1",
+  "qualities": {
+    "MINI": "http://marveliptv.life/live/01112727740kh/khiary7740/523396.m3u8",
+    "LOW": "http://marveliptv.life/live/01112727740kh/khiary7740/178670.m3u8",
+    "SD": "http://marveliptv.life/live/01112727740kh/khiary7740/214574.m3u8",
+    "HD": "http://marveliptv.life/live/01112727740kh/khiary7740/214584.m3u8",
+    "FHD": "http://marveliptv.life/live/01112727740kh/khiary7740/101092.m3u8",
+    "4K": "http://marveliptv.life/live/01112727740kh/khiary7740/214594.m3u8",
+    "H265_LOW": "http://marveliptv.life/live/01112727740kh/khiary7740/182208.m3u8",
+    "H265_SD": "http://marveliptv.life/live/01112727740kh/khiary7740/75625.m3u8",
+    "H265_HD": "http://marveliptv.life/live/01112727740kh/khiary7740/149327.m3u8",
+    "H265_FHD": "http://marveliptv.life/live/01112727740kh/khiary7740/214564.m3u8"
+  }
+}
