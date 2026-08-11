@@ -1,29 +1,26 @@
 #EXTM3U
 # Created with LIVE STREAM PRO Playlist Creator - Ott Player Account
 
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=3840x2160
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL 4K" tvg-logo="" group-title="MARVEL", MARVEL 4K (2160p)
 http://marveliptv.life/live/01112727740kh/khiary7740/214594.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL FHD 1" tvg-logo="" group-title="MARVEL", MARVEL FHD (1080p - 4M)
 http://marveliptv.life/live/01112727740kh/khiary7740/214564.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL FHD 2" tvg-logo="" group-title="MARVEL", MARVEL FHD (1080p - 3.5M)
 http://marveliptv.life/live/01112727740kh/khiary7740/101092.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL FHD 3" tvg-logo="" group-title="MARVEL", MARVEL FHD (1080p - 3M)
 http://marveliptv.life/live/01112727740kh/khiary7740/214584.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL HD" tvg-logo="" group-title="MARVEL", MARVEL HD (720p)
 http://marveliptv.life/live/01112727740kh/khiary7740/149327.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL SD" tvg-logo="" group-title="MARVEL", MARVEL SD (480p)
 http://marveliptv.life/live/01112727740kh/khiary7740/214574.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
-http://marveliptv.life/live/01112727740kh/khiary7740/149327.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL LOW" tvg-logo="" group-title="MARVEL", MARVEL LOW (360p)
 http://marveliptv.life/live/01112727740kh/khiary7740/75625.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=480x270
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL LOWEST" tvg-logo="" group-title="MARVEL", MARVEL LOWEST (270p)
 http://marveliptv.life/live/01112727740kh/khiary7740/182208.m3u8
