@@ -1,15 +1,29 @@
-{
-  "name": "beIN SPORTS 1",
-  "qualities": {
-    "MINI": "http://marveliptv.life/live/01112727740kh/khiary7740/523396.m3u8",
-    "LOW": "http://marveliptv.life/live/01112727740kh/khiary7740/178670.m3u8",
-    "SD": "http://marveliptv.life/live/01112727740kh/khiary7740/214574.m3u8",
-    "HD": "http://marveliptv.life/live/01112727740kh/khiary7740/214584.m3u8",
-    "FHD": "http://marveliptv.life/live/01112727740kh/khiary7740/101092.m3u8",
-    "4K": "http://marveliptv.life/live/01112727740kh/khiary7740/214594.m3u8",
-    "H265_LOW": "http://marveliptv.life/live/01112727740kh/khiary7740/182208.m3u8",
-    "H265_SD": "http://marveliptv.life/live/01112727740kh/khiary7740/75625.m3u8",
-    "H265_HD": "http://marveliptv.life/live/01112727740kh/khiary7740/149327.m3u8",
-    "H265_FHD": "http://marveliptv.life/live/01112727740kh/khiary7740/214564.m3u8"
-  }
-}
+#EXTM3U
+# Created with LIVE STREAM PRO Playlist Creator - Ott Player Account
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=3840x2160
+http://marveliptv.life/live/01112727740kh/khiary7740/214594.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
+http://marveliptv.life/live/01112727740kh/khiary7740/214564.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080
+http://marveliptv.life/live/01112727740kh/khiary7740/101092.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+http://marveliptv.life/live/01112727740kh/khiary7740/214584.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720
+http://marveliptv.life/live/01112727740kh/khiary7740/149327.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
+http://marveliptv.life/live/01112727740kh/khiary7740/214574.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
+http://marveliptv.life/live/01112727740kh/khiary7740/149327.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+http://marveliptv.life/live/01112727740kh/khiary7740/75625.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=480x270
+http://marveliptv.life/live/01112727740kh/khiary7740/182208.m3u8
