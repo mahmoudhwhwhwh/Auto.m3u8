@@ -1,5 +1,10 @@
 #EXTM3U
-# Created with LIVE STREAM PRO Playlist Creator - Ott Player Account
 
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080
-http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=1859092&extension=ts&
+#EXTINF:-1 tvg-name="Channel 1080p",Channel 1080p
+http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=1859091&extension=ts
+
+#EXTINF:-1 tvg-name="Channel 720p",Channel 720p
+http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=1859091&extension=ts
+
+#EXTINF:-1 tvg-name="Channel 480p",Channel 480p
+http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=1859091&extension=ts
