@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BeIN Sports", BeIN Sports
-#EXTVLCOPT:http-user-agent=MAG250
-#EXTHTTP:{"User-Agent":"MAG250"}
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
 http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=1859092&extension=ts
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=1859092&extension=ts&
