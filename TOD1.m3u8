@@ -3,11 +3,11 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000000,
-http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=2081912&extension=ts
+https://liveeu-gcps.alkassdigital.net/alkass2-p/main.m3u8?hdnts=exp=1790166619~hmac=bcd268703383e5753f08ae00810113cd655ab537e4d89faee6fd6013303b013f
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000000,
-http://bossdynns.com/play/live.php?mac=00:1A:79:17:4F:C8&stream=2081912&extension=ts
+https://liveeu-gcps.alkassdigital.net/alkass2-p/main.m3u8?hdnts=exp=1790166619~hmac=bcd268703383e5753f08ae00810113cd655ab537e4d89faee6fd6013303b013f
