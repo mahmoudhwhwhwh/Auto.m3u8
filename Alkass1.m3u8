@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Alkass 1
+#EXTINF:-1 tvg-id="Alkass1" tvg-name="Alkass 1 HD" tvg-logo="https://storage.googleapis.com/livealkass-eu/logo.png" group-title="Alkass Sports", Alkass 1 HD
 https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
