@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:1
+#EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=Auto
 https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
