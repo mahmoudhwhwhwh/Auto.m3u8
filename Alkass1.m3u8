@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Alkass1" tvg-name="Alkass 1 HD" tvg-logo="https://storage.googleapis.com/livealkass-eu/logo.png" group-title="Alkass Sports", Alkass 1 HD
+#EXT-X-VERSION:1
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=Auto
 https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
